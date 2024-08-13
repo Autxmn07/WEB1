@@ -1,0 +1,233 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.MOM {
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.25cm;
+    font-weight: 500;
+}
+
+.TITULO {
+    border: 5px dashed rgb(255, 255, 255);
+    width: 22cm;
+    float: auto;
+    margin-left: 0.5cm;
+    margin-top: 1cm;
+}
+
+body {
+    background-color: black;
+}
+
+.EU {
+    border: 5px solid white;
+    float: right;
+    width: 10cm;
+    margin-top: -0.1cm;
+    margin-right: 0.5cm;
+    margin-top: 0.01cm;
+
+}
+
+#my {
+    color: white;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+}
+
+.EU:hover {
+    background: #15ff0067;
+    font-size: 1cm;
+    filter: blur(3px);
+    transition: all 4s ease-in;
+}
+
+.a {
+    border: 5px solid rgb(255, 255, 255);
+    width: 22cm;
+    float: auto;
+    margin-left: 0.5cm;
+    margin-top: 0.2rem;
+}
+
+.WSP {
+    width: 2rem;
+    height: 1.5rem;
+    margin: 0px;
+}
+
+.boton {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 0rem;
+    font-size: 1.5rem;
+    border: none;
+    transition: all .7s;
+
+}
+
+.boton:hover {
+    padding: .5rem;  
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(255, 252, 252);
+    color: red;
+    transition: all .5s;
+}
+
+.boton2 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 0rem;
+    font-size: 1.5rem;
+    border: none;
+    font-weight: 900;
+    transition: all .7s;
+}
+
+.boton2:hover {
+    padding: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(255, 252, 252);
+    color: red;
+    transition: all .5s;
+}
+
+.boton3 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 0rem;
+    font-size: 1.5rem;
+    border: none;
+    transition: all .7s;
+}
+
+.boton3:hover{
+    padding: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(255, 252, 252);
+    color: red;
+    transition: all .5s;
+}
+
+.boton4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 0rem;
+    font-size: 1.5rem;
+    border: none;
+    transition: all .7s;
+}
+
+.boton4:hover{
+    padding: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(255, 252, 252);
+    color: red;
+    transition: all .5s;
+}
+
+.boton5 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 0rem;
+    font-size: 1.5rem;
+    border: none;
+    transition: all .7s;
+}
+
+.boton5:hover{
+    padding: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(255, 252, 252);
+    color: red;
+    transition: all .5s;
+}
+
+.boton6 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 0rem;
+    font-size: 1.5rem;
+    border: none;
+    transition: all .7s;
+}
+
+.boton6:hover{
+    padding: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(255, 252, 252);
+    color: red;
+    transition: all .5s;
+}
+
+.boton7 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: black;
+    color: white;
+    border-radius: 0rem;
+    font-size: 1.5rem;
+    border: none;
+    transition: all .7s;
+}
+
+.boton7:hover{
+    padding: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(255, 252, 252);
+    color: red;
+    transition: all .5s;
+}
+
+.content {
+    float: left;
+    margin-right: 12cm;
+    margin-left: .5cm;
+    border: 5px solid rgb(255, 255, 255);
+    width: 22cm;
+    float: auto;
+    margin-left: 0.5cm;
+    margin-top: .1cm;
+}
+
+.conte {
+    text-align: justify;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+.maa {
+    float: right;
+    margin: 15px;
+    width: 7cm;
+}
+
+.tipo {
+    color: white;
+    margin: 10px;
+}
