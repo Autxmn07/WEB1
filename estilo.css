@@ -25,9 +25,9 @@ body {
     border: 5px solid white;
     float: right;
     width: 10cm;
-    margin-top: -0.1rem;
-    margin-right: 0.5rem;
-    margin-top: 0.01rem;
+    margin-top: -0.1cm;
+    margin-right: 1rem;
+    margin-top: 0.01cm;
 
 }
 
@@ -41,10 +41,10 @@ h2 {
 }
 
 .EU:hover {
-    background: #15ff0067;
+    background: #f1caca;
     font-size: 1cm;
     filter: blur(3px);
-    transition: all 4s ease-in;
+    transition: all 1s ease-in;
 }
 
 .a {
